@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Vodoprovod/20171222_test/issues"
   },
-  "homepage": "https://github.com/Vodoprovod/20171222_test#readme"
+  "homepage": "https://github.com/Vodoprovod/20171222_test#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
 }
